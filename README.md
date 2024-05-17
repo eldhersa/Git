@@ -22,9 +22,9 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Visão Geral do Curso e Ferramentas</td>
+      <td>Visão Geral</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
+        <a href="1. visao_geral.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -33,25 +33,79 @@ Introduzir ao versionamento de código com Git e GitHub.
       <td>02</td>
       <td>Instalação, Configuração e Autenticação</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
+        <a href="2. instalacao_configuração_autenticacao.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Primeiros Passos com Git e GitHub</td>
+      <td>Criação e clonando repositórios</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
+        <a href="3. criando_e_clonando_repositorios.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
+      <td>Gravando alterações em seu repositório local</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
+        <a href="4. gravando_alterações_em_seu_repositório_local.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Comandos de Exibição</td>
+      <td align="center">
+        <a href="5. comandos_de_exibição.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>Commitando</td>
+      <td align="center">
+        <a href="6. commitando.md.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>Desfazendo Alterações</td>
+      <td align="center">
+        <a href="7. desfazendo_alteracoes.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>Enviando e baixando alterações do repositório remoto</td>
+      <td align="center">
+        <a href="8. enviando_e_baixando_alteracoes_do_repositorio_remoto.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Trabalhando com Branches</td>
+      <td align="center">
+        <a href="9. trabalhando_com_branches.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Conflitos básicos de merge</td>
+      <td align="center">
+        <a href="10. conflitos_basicos_de_merge.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
